@@ -1,4 +1,4 @@
- var forma = prompt("Qual a forma que vc deseja calcular a área?")
+ var forma = prompt("Qual a forma que vc deseja calcular a área?(escreva tudo minusculo e sem acentuação!)")
 
 
 switch (forma) {
